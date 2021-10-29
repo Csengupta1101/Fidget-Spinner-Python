@@ -1,3 +1,4 @@
+![fidget spinner](https://github.com/Csengupta1101/Fidget-Spinner-Python/blob/main/Fidget%20Spinner.jpg)
 # Fidget-Spinner-Python
 
 The games are cool and everyone loves them. Making games can be very different from other types of programming. In here we will be creating a
