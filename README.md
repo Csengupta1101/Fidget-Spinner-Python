@@ -1,0 +1,3 @@
+# Fidget-Spinner-Python
+The games are cool and everyone loves them. Making games can be very different from other types of programming. In here we will be creating a
+fidget spinner game with python programming language.
